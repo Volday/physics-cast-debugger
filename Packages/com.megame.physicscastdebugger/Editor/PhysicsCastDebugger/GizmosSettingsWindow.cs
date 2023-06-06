@@ -73,6 +73,11 @@ namespace PhysicsCastDebugger
                 GUIStyle background = "grey_border";
                 background.Draw(new Rect(0, 0, position.width, position.height), GUIContent.none, false, false, false, false);
             }
+
+            if (GUI.changed)
+            {
+                SceneView.RepaintAll();
+            }
         }
     }
 }

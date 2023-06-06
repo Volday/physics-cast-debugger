@@ -787,6 +787,7 @@ namespace PhysicsCastDebugger
                     stickScrollToBottom = false;
 
                     Repaint();
+                    SceneView.RepaintAll();
                 }
 
                 if (rowRect.y + rowRect.height < scrollPosition.y)
