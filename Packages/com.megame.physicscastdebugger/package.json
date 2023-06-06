@@ -1,0 +1,26 @@
+{
+  "name": "com.megame.physicscastdebugger",
+  "version": "0.1.1",
+  "displayName": "Physics Cast Debugger",
+  "description": "description",
+  "unity": "2020.1",
+  "unityRelease": "0f1",
+  "documentationUrl": "documentationUrl",
+  "changelogUrl": "changelogUrl",
+  "licensesUrl": "licensesUrl",
+  "keywords": [
+    "physics",
+    "cast",
+    "debugger",
+    "ray"
+  ],
+  "dependencies": {
+    "com.megame.harmony": "2.1.10"
+  },
+  "author": {
+    "name": "Megame"
+  },
+  "publishConfig": {
+    "registry": "http://159.89.15.53:4873"
+  }
+}

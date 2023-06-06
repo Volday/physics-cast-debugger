@@ -1,0 +1,21 @@
+{
+  "name": "com.megame.harmony",
+  "version": "2.1.10",
+  "displayName": "Harmony",
+  "description": "Harmony gives you an elegant and high level way to alter functionality in applications written in C#. It does this at runtime by monkey patching methods unlike other solutions that change the content of dll files.",
+  "unity": "2019.1",
+  "unityRelease": "0b5",
+  "documentationUrl": "https://harmony.pardeike.net/articles/intro.html",
+  "changelogUrl": "https://github.com/pardeike/Harmony/releases/tag/v2.1.0.0",
+  "licensesUrl": "https://github.com/pardeike/Harmony/blob/master/LICENSE",
+  "keywords": [
+    "harmony"
+  ],
+  "author": {
+    "name": "Andreas Pardeike",
+    "email": "andreas@pardeike.net"
+  },
+  "publishConfig": {
+    "registry": "http://159.89.15.53:4873"
+  }
+}
